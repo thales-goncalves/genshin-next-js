@@ -1,0 +1,26 @@
+{
+  "name": "genshin-next-js",
+  "version": "1.0.0",
+  "description": "Genshin Impact Utility",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thales-goncalves/genshin-next-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thales-goncalves/genshin-next-js/issues"
+  },
+  "homepage": "https://github.com/thales-goncalves/genshin-next-js#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  }
+}
